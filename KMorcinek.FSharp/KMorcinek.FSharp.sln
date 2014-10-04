@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "KMorcinek.FSharp", "KMorcinek.FSharp\KMorcinek.FSharp.fsproj", "{08714A6E-E645-4B8E-B94F-8284908E94B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallFSharp", "CallFSharp\CallFSharp.csproj", "{ED9D33FF-F2F4-458E-96D0-AC83CCB2A24D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{08714A6E-E645-4B8E-B94F-8284908E94B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08714A6E-E645-4B8E-B94F-8284908E94B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08714A6E-E645-4B8E-B94F-8284908E94B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED9D33FF-F2F4-458E-96D0-AC83CCB2A24D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9D33FF-F2F4-458E-96D0-AC83CCB2A24D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9D33FF-F2F4-458E-96D0-AC83CCB2A24D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9D33FF-F2F4-458E-96D0-AC83CCB2A24D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

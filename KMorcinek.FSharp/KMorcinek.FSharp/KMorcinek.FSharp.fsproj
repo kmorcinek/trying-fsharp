@@ -56,12 +56,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <Compile Include="types.fs" />
-    <Compile Include="Logic.fs" />
-    <Compile Include="RabbitProblem.fs" />
+    <Compile Include="Pie.fs" />
     <None Include="packages.config" />
-    <Compile Include="Tests.fs" />
     <Compile Include="Cards.fs" />
+    <Compile Include="Chapter5.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
   <PropertyGroup>

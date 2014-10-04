@@ -5,6 +5,7 @@ open System
 [<EntryPoint>]
 let main argv = 
     Console.WriteLine("Press any key")
+
     Console.ReadLine() |> ignore
 
     // return the exit code
